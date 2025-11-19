@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @akbrucke
-- 👀 I’m interested in audio engineering, music production, video production, open source software development
-- 🌱 I’m currently learning the basics of open source
-- 💞️ I’m looking to collaborate on music projects, specifically: if you need a metal vocalist, hmu.
-- 📫 How to reach me: my band's links are here: http://linktr.ee/sherwoodband
-Additionally, my Twitter handle is @martyrsblade
+I'm Alan, a [musician](https://linktr.ee/hediesmusic), [audio engineer](https://hangingpuppetaudio.com/), [record label guy](https://hauntologyrecords.bandcamp.com/), and writer.
+
+Currently working on the following music projects:[bodyscan,](https://bodyscanprog.bandcamp.com/) [Pull The Strings,](https://pullthestrings.bandcamp.com/) [AOECIST,](https://aoecist.bandcamp.com/) [Mind Prisoner,](https://mindprisonerpdx.bandcamp.com/) [Alan Brucke,](https://alanbrucke.bandcamp.com/) and [The Noiseless Aura.](https://thenoiselessaura.bandcamp.com)
+
+I don't use GitHub too often, so if you'd like to keep up with me, follow me on [Instagram](https://instagram.com/seeyou.onthe.otherside/) or [Bluesky.](https://bsky.app/profile/hangingpuppetaudio.bsky.social) If you're a music nerd like me, follow me on [Bandcamp.](https://bandcamp.com/hedies23)
