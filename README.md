@@ -1,4 +1,4 @@
-I'm Alan, a [musician](https://linktr.ee/hediesmusic), [audio engineer](https://hangingpuppetaudio.com/), and cat dad.
+I'm Alan, a [musician](https://linktr.ee/hediesmusic), [audio engineer](https://instagram.com/hangingpuppetaudio/), and cat dad.
 
 Currently working on the following music projects: [Pull The Strings,](https://pullthestrings.bandcamp.com/) [AOECIST,](https://aoecist.bandcamp.com/) [bodyscan,](https://bodyscanprog.bandcamp.com/) [Alan Brucke,](https://alanbrucke.bandcamp.com/) and many others.
 
